@@ -1,9 +1,28 @@
-# CodeClassroom
- **CodeClassroom** is a full-stack MERN web application designed to streamline coding assignments in an educational setting. Teachers can create virtual classrooms, assign coding tasks, and students can join, submit their solutions, and get their code compiled in real-time. The platform supports C++, Java, and Python programming languages, making it versatile for various educational needs.
+# Code Classroom
+### Virtual Programming Learning Platform
 
-### Features
-- T**eacher Dashboard**: Teachers can create and manage classrooms, assign coding problems, and review student submissions.
-- **Student Dashboard**: Students can join classrooms, view assignments, submit their code, and compile it within the platform.
-- **Real-Time Code Compilation**: Supports C++, Java, and Python languages using Compilex.
-- **Assignment Review & Grading**: Teachers can evaluate student submissions, run the code, and assign grades.
-- **Authentication System**: Secure login and registration for both teachers and students.
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+## Overview
+Code Classroom is a MERN stack-based virtual learning platform that enables educators to create programming assignments and students to code, compile, and submit their work in real-time.
+
+## ✨ Features
+- 💻 Real-time code compilation (Python, Java, C++)
+- 📝 Automated assignment submission
+- 👨‍🏫 Teacher dashboard for classroom management
+- 📊 Progress tracking and grading system
+- ⚡ Built-in code editor with syntax highlighting
+
+## 🛠️ Tech Stack
+```javascript
+{
+  "frontend": ["React.js", "Material-UI", "CodeMirror"],
+  "backend": ["Node.js", "Express.js"],
+  "database": "MongoDB",
+  "authentication": "JWT"
+}
+```
+
+
+---
